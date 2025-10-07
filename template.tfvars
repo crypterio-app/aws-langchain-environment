@@ -1,4 +1,5 @@
 
+
 ###  ---  Default Template  ---  ###
 region   = "us-west-2"
 ec2_type = "t2.xlarge"
