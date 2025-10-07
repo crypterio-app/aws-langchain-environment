@@ -1,7 +1,7 @@
 <img width="1432" height="924" alt="image" src="https://github.com/user-attachments/assets/90007a79-beb5-4d14-8686-3f4977183e15" />
 
 
-## AWS LangChain | AI Environment 🧠🧠🧠
+## AWS LangChain | AI Environment 🧠
 LangChain is an open-source framework designed to help developers build applications powered by large language models (LLMs) — such as GPT, Claude, or Gemini — that can reason, remember, and interact with external data or systems.
 
 Developing and deploying AI applications, especially those leveraging large language models (LLMs), often require a complex interplay of technologies. This article explores a case study where Ollama, LangChain, Docker, and Kubernetes work together to create a robust and scalable AI solution.
