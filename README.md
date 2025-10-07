@@ -1,4 +1,4 @@
-<img width="1432" height="924" alt="image" src="https://github.com/user-attachments/assets/26b248cf-6bdf-4766-8859-72d07575140e" />
+<img width="1432" height="924" alt="image" src="https://github.com/user-attachments/assets/4331b682-1155-478f-94d3-7ce5c8e097b1" />
 
 
 ## AWS LangChain | AI Environment 🚀🚀🚀
